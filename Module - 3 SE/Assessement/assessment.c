@@ -2,10 +2,6 @@
 
 #include<stdio.h>
 
-void multiply(int a1[2][2], int a2[2][2]) {
-	
-}
-
 int main() {
 	int i, j, a1[2][2], a2[2][2], count = 1;
 	
